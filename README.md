@@ -7,7 +7,7 @@
 <a href="https://kiwiirc.com/client/irc.badnik.net/?nick=IRC-Source_?#melonds" alt="IRC channel: #melonds"><img src="https://img.shields.io/badge/IRC%20chat-%23melonds-%23dd2e44.svg"></a>
 </p>
 
-## SAME MELONDS, JUST TURKISH... TO DOWNLOAD CLICK MELONDS-TR LOGO OR HERE <a href="https://github.com/fpscan/MelonDS-TR/releases/download/0.7.4-TR/melonDS-TR_0.7.4_win64.zip" alt="melonDS website">HERE</a>
+## SAME MELONDS, JUST TURKISH... TO DOWNLOAD CLICK MELONDS-TR LOGO OR <a href="https://github.com/fpscan/MelonDS-TR/releases/download/0.7.4-TR/melonDS-TR_0.7.4_win64.zip" alt="melonDS website">HERE</a>
 
 DS emülatorü
 <hr>
